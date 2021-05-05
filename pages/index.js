@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Layout title="Home">
 
-      <p className="text-4xl">Hello のんたん</p>
+      <p className="text-4xl">Hello のんちゃん</p>
 
     </Layout>
 
